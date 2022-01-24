@@ -3,17 +3,17 @@ DeepLearning modelling for PickFish Apps (https://github.com/mlkabdazz/PickFish)
 
 ## Dataset
 Sample of dataset
-Condition / Fish Name | Banyar | Kolong | Kwe Lilin | Mackarel | Manglah | Solok | Teribang | Tongkol
+Condition / Fish Name | _Restrelliger kanagurta_ | _Auxis rochei_ | _Caranx sexfaciatus_ 
 --- | --- | --- | --- |--- |--- |--- |--- |---
-Fresh Eyes - Fresh Skins | ![banyar](/assets/images/BR-FF.jpg) | ![Kolong](/assets/images/KG-FF.jpg) | ![KweLilin](/assets/images/KL-FF.jpg) | 286 | 289 | 285 | 287 | 287
-Fresh Eyes - Medium Skins | **-** | **-** | **-** | 286 | 289 | 285 | 287 | 287
-Fresh Eyes - Spoil Skins | **-** | **-** | **--** | 286 | 289 | 285 | 287 | 287
-Medium Eyes - Fresh Skins | ![banyar](/assets/images/BR-MF.jpg) | ![Kolong](/assets/images/KG-MF.jpg) | ![KweLilin](/assets/images/KL-MF.jpg) | 286 | 289 | 285 | 287 | 287
-Medium Eyes - Medium Skins | ![banyar](/assets/images/BR-MM.jpg)  | ![Kolong](/assets/images/KG-MM.jpg) | ![KweLilin](/assets/images/KL-MM.jpg) | 286 | 289 | 285 | 287 | 287
-Medium Eyes - Spoil Skins | ![banyar](/assets/images/BR-MS.jpg)  | **-** | **-** | 286 | 289 | 285 | 287 | 287
-Spoil Eyes - Fresh Skins | **-** | ![Kolong](/assets/images/KG-SF.jpg) | ![KweLilin](/assets/images/KL-SF.jpg) | 286 | 289 | 285 | 287 | 287
-Spoil Eyes - Medium Skins | ![banyar](/assets/images/BR-SM.jpg) | ![Kolong](/assets/images/KG-SM.jpg) | ![KweLilin](/assets/images/KL-SM.jpg) | 286 | 289 | 285 | 287 | 287
-Spoil Eyes - Spoil Skins | ![banyar](/assets/images/BR-SS.jpg) | ![Kolong](/assets/images/KG-SS.jpg) | ![KweLilin](/assets/images/KL-SS.jpg) | 286 | 289 | 285 | 287 | 287
+Fresh Eyes - Fresh Skins | ![banyar](/assets/images/BR-FF.jpg) | ![Auxis rochei](/assets/images/TL-FF.jpg) | ![KweLilin](/assets/images/KL-FF.jpg)
+Fresh Eyes - Medium Skins | **-** | ![Auxis rochei](/assets/images/TL-FM.jpg) | **-**
+Fresh Eyes - Spoil Skins | **-** | **-** | **--**
+Medium Eyes - Fresh Skins | ![banyar](/assets/images/BR-MF.jpg) | ![Auxis rochei](/assets/images/TL-MF.jpg) | ![KweLilin](/assets/images/KL-MF.jpg)
+Medium Eyes - Medium Skins | ![banyar](/assets/images/BR-MM.jpg)  | ![Auxis rochei](/assets/images/TL-MM.jpg) | ![KweLilin](/assets/images/KL-MM.jpg)
+Medium Eyes - Spoil Skins | ![banyar](/assets/images/BR-MS.jpg)  | ![Auxis rochei](/assets/images/TL-MS.jpg) | **-**
+Spoil Eyes - Fresh Skins | **-** | **-** | ![KweLilin](/assets/images/KL-SF.jpg)
+Spoil Eyes - Medium Skins | ![banyar](/assets/images/BR-SM.jpg) | ![Auxis rochei](/assets/images/TL-SM.jpg) | ![KweLilin](/assets/images/KL-SM.jpg)
+Spoil Eyes - Spoil Skins | ![banyar](/assets/images/BR-SS.jpg) | ![Auxis rochei](/assets/images/TL-SS.jpg) | ![KweLilin](/assets/images/KL-SS.jpg)
 
 ## Label
 1. Fish

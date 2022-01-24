@@ -3,7 +3,7 @@ DeepLearning modelling for PickFish Apps (https://github.com/mlkabdazz/PickFish)
 
 ## Dataset
 Sample of dataset
-Condition / Fish Name | _Restrelliger kanagurta_ | _Auxis rochei_ | _Caranx sexfaciatus_ 
+Condition / Fish Name | _Restrelliger kanagurta_ | _Auxis rochei_ | _Caranx sexfaciatus_
 --- | --- | --- | --- |--- |--- |--- |--- |---
 Fresh Eyes - Fresh Skins | ![banyar](/assets/images/BR-FF.jpg) | ![Auxis rochei](/assets/images/TL-FF.jpg) | ![KweLilin](/assets/images/KL-FF.jpg)
 Fresh Eyes - Medium Skins | **-** | ![Auxis rochei](/assets/images/TL-FM.jpg) | **-**

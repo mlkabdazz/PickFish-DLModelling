@@ -6,7 +6,7 @@ Sample of dataset
 Condition / Fish Name | Banyar | Kolong | Kwe Lilin | Mackarel | Manglah | Solok | Teribang | Tongkol
 --- | --- | --- | --- |--- |--- |--- |--- |---
 Fresh Eyes - Fresh Skins | ![banyar](/assets/images/BR-FF.jpg) | 283 | 290 | 286 | 289 | 285 | 287 | 287
-Fresh Eyes - Medium Skins | **No Sample** | 283 | 290 | 286 | 289 | 285 | 287 | 287
+Fresh Eyes - Medium Skins | **-** | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Fresh Eyes - Spoil Skins | **No Sample** | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Medium Eyes - Fresh Skins | ![banyar](/assets/images/BR-MF.jpg) | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Medium Eyes - Medium Skins | ![banyar](/assets/images/BR-MM.jpg)  | 283 | 290 | 286 | 289 | 285 | 287 | 287

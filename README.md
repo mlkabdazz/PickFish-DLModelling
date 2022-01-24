@@ -2,7 +2,8 @@
 DeepLearning modelling for PickFish Apps (https://github.com/mlkabdazz/PickFish)
 
 ## Dataset
-Sample of dataset
+Dataset: Banyar, Kolong, Kwe Lilin, Mackarel, Solok, Tongkol, Teribang and Manglah.
+In below, sample 3 types of fish
 Condition / Fish Name | _Restrelliger kanagurta_ | _Auxis rochei_ | _Caranx sexfaciatus_
 --- | --- | --- | ---
 Fresh Eyes - Fresh Skins | ![banyar](/assets/images/BR-FF.jpg) | ![Auxis rochei](/assets/images/TL-FF.jpg) | ![KweLilin](/assets/images/KL-FF.jpg)

@@ -5,7 +5,7 @@ DeepLearning modelling for PickFish Apps (https://github.com/mlkabdazz/PickFish)
 Sample of dataset
 Condition / Fish Name | Banyar | Kolong | Kwe Lilin | Mackarel | Manglah | Solok | Teribang | Tongkol
 --- | --- | --- | --- |--- |--- |--- |--- |---
-Fresh Eyes - Fresh Skins | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287
+Fresh Eyes - Fresh Skins | /assets/images/BR-FF.jpg | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Fresh Eyes - Medium Skins | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Fresh Eyes - Spoil Skins | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287
 Medium Eyes - Fresh Skins | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287

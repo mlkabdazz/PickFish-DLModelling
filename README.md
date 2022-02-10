@@ -1,5 +1,6 @@
-# PickFish-DLModelling
+# PickFish-DLModelling 
 DeepLearning modelling for PickFish Apps (https://github.com/mlkabdazz/PickFish)
+This Repo, under development model first version :)
 
 ## Dataset
 Dataset: Banyar, Kolong, Kwe Lilin, Mackarel, Solok, Tongkol, Teribang and Manglah.
